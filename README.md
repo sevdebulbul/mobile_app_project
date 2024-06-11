@@ -1,16 +1,5 @@
 # mobile_app_project
 
-A new Flutter project.
+Erciyes Üniversitesi, Bilgisayar Mühendisliği Bölümü, Mobile Application Development dersi kapsamında yapılmış olan bu proje flutter ve dart kullanılarak API üzerinden yemek verilerini çekip ardından bunları mobil uygulama üzerinde liste şeklinde göstermektedir. Bu yemeklere tıklandığında üzerine bilgilerin gelmesi amaçlanmıştır. Bu amaç doğrultusunda bu uygulamanın yapılması planlanmıştır.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project, which was carried out within the scope of Erciyes University, Department of Computer Engineering, Mobile Application Development course, extracts food data via API using flutter and dart and then displays them in the form of a list on the mobile application. It is intended to bring up information when you click on these dishes. For this purpose, this application is planned to be carried out.
