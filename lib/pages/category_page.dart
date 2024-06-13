@@ -4,7 +4,7 @@ import 'package:mobile_app_project/pages/meal_list_page.dart';
 class CategoryPage extends StatelessWidget {
   final List<String> categories = [
     'Seafood',
-    'Desserts'
+    'Dessert'
   ]; //Kategoriler burada gösterildi
 
   @override
